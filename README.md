@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mathiasbynens/kali-linux-docker)
+
 # Official Kali Linux Docker
 This Kali Linux Docker image provides a minimal base install of the latest version of Kali Linux 1.x.
 There are no tools added to this image, so you will need to install them yourself. 
